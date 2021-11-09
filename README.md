@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @naganesan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning VBA ADSI to automate some task in my org
-- 💞️ I’m looking to learn from the expert of VBA 
+- 🌱 I started loving web development after learning some node.js
 - 📫 Please reach he through naganesan09@gmail.com
 
 <!---
